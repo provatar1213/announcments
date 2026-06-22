@@ -1,14 +1,16 @@
 {
   "announcements": [
     {
-      "title": "Saison 1 ouverte",
+      "title": "Season 1 Open",
       "date": "2026-06-22",
-      "message": "Bienvenue dans FAH ROYALE ! Le bus decolle, preparez-vous a sauter."
+      "message": "Welcome to FAH ROYALE! The cube is taking off, get ready to jump.",
+      "IsCritical": "true"
     },
     {
-      "title": "Rappel commandes",
+      "title": "Command Reminder",
       "date": "2026-06-22",
-      "message": "Espace pour sauter du bus. Le parachute s'ouvre sous 100m. Restez dans la zone."
+      "message": "Cube jump zone. The door opens in 100m. Stay in the zone.",
+      "IsCritical": "true"
     }
   ]
 }
