@@ -1,0 +1,31 @@
+{
+  "connection_answer": [
+    {
+      "status_code": 200,
+      "status_message": "Serveurs en ligne",
+      "version_jeu": "0.1.0",
+      "version_launcher": "0.1.0",
+      "maintenance": false,
+      "message_accueil": "Bienvenue sur Fah Royale !",
+      "joueurs_en_ligne": 0,
+      "url_jeu": "https://tonserveur.com/fahRoyale/",
+      "fichiers": [
+        {
+          "nom": "FahRoyale.exe",
+          "is_folder":false,
+          "url": "https://tonserveur.com/fahRoyale/FahRoyale.exe"
+        },
+        {
+          "nom": "UnityPlayer.dll",
+          "is_folder":false,
+          "url": "https://tonserveur.com/fahRoyale/UnityPlayer.dll"
+        },
+        {
+            "nom":"FAH_ROYALE_files",
+            "is_folder":true,
+            "url":"https://tonserveur.com/fahRoyale/FAH_ROYALE_files"
+        }
+      ]
+    }
+  ]
+}
