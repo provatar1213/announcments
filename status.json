@@ -1,5 +1,5 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "timer": "30m",
-  "serverreset": true
+  "serverreset": false
 }
